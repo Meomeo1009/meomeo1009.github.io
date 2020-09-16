@@ -129,6 +129,7 @@ ul li
 	float: left;
 	padding: 60px 75px; 
 	position: relative;
+	box-sizing: border-box;
 }
 ul li a
 {
